@@ -39,6 +39,7 @@
     * [Окно отладки Ability System](rabota-s-proektom-v-unreal-engine/arkhitektura-igry/sistema-vozmozhnostei-ability/okno-otladki-ability-system.md)
   * [Система HUD](rabota-s-proektom-v-unreal-engine/arkhitektura-igry/sistema-hud/README.md)
     * [Окно отладки HUD](rabota-s-proektom-v-unreal-engine/arkhitektura-igry/sistema-hud/okno-otladki-hud.md)
+  * [Тестовый раздел](rabota-s-proektom-v-unreal-engine/arkhitektura-igry/testovyi-razdel.md)
   * [Система отладки (Debug)](rabota-s-proektom-v-unreal-engine/arkhitektura-igry/sistema-otladki-debug/README.md)
     * [Editor Utilities](rabota-s-proektom-v-unreal-engine/arkhitektura-igry/sistema-otladki-debug/editor-utilities.md)
 * [Инструкции по разработке](rabota-s-proektom-v-unreal-engine/instrukcii-po-razrabotke/README.md)
