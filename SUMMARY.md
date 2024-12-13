@@ -43,6 +43,7 @@
   * [Система спавна предметов и лута](rabota-s-proektom-v-unreal-engine/arkhitektura-igry/sistema-spavna-predmetov-i-luta.md)
   * [Система отладки (Debug)](rabota-s-proektom-v-unreal-engine/arkhitektura-igry/sistema-otladki-debug/README.md)
     * [Editor Utilities](rabota-s-proektom-v-unreal-engine/arkhitektura-igry/sistema-otladki-debug/editor-utilities.md)
+  * [Система генерации миникарты](rabota-s-proektom-v-unreal-engine/arkhitektura-igry/sistema-generacii-minikarty.md)
 * [Инструкции по разработке](rabota-s-proektom-v-unreal-engine/instrukcii-po-razrabotke/README.md)
   * [Работа с таблицами и ассетами данных](rabota-s-proektom-v-unreal-engine/instrukcii-po-razrabotke/rabota-s-tablicami-i-assetami-dannykh.md)
   * [Общая справка по коллизиям](rabota-s-proektom-v-unreal-engine/instrukcii-po-razrabotke/obshaya-spravka-po-kolliziyam/README.md)
