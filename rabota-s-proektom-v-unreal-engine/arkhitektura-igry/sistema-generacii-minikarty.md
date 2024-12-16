@@ -13,13 +13,13 @@
 1. `расположите BP_MapCapture так, чтобы камера смотрела перпендикулярно вниз.`
 2.  `Не забудьте указать Render Target текстуры`
 
-    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
 
 
 3.  Добавьте акторы пола в массив Floor Actors\
 
 
-    <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
 
 
 4. Готово. Теперь, когда вы будете перемещать BP\_MapCapture или нажимать Refresh в EU`_SceneCapturePreview, текстура будет обновляться.`
