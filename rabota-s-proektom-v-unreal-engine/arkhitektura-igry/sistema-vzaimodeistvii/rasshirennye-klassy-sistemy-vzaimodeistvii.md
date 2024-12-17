@@ -30,7 +30,7 @@ description: На этой странице будут перечислены о
 Во вкладке Interaction Settings есть параметр "Context Override". Он представляет из себя Map GameplayTag/DataTableRowHandle.  Таким образом это позволяет полностью поменять контекст всех взаимодействий.\
 
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 

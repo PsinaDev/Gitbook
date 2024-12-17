@@ -24,7 +24,7 @@
 
     Для выбора сокета используйте пипетку справа от индекса массива и кликните на нужный сокет.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 3 В **BP\_Spawner** укажите таблицы и ряды, отвечающие за спавн предметов и лута на уровне или в зонах.
 
@@ -43,7 +43,7 @@
    * Перейдите в папку `ProtocolTerminate/Data/SpawnLootData` и откройте файл `DT_LootSpawnData`.
    * Создайте новый ряд, задайте общую стоимость лута, количество редких предметов, затем укажите этот ряд в **BP\_Spawner**.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. **Для предметов**
 
