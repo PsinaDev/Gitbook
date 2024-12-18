@@ -7,7 +7,7 @@
 \
 Чтобы настроить максимальный размер стака предмета, увеличьте значение переменной `StackLimit`. Если предмет не должен складываться в стаки, установите значение переменной `StackLimit` равным 1.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 \
 `[СТАТЬЯ НАХОДИТСЯ НА ПЕРЕСМОТРЕ В СВЯЗИ С ИЗМЕНЕНИЕМ СИСТЕМЫ ИНВЕНТАРЯ, ОЖИДАЙТЕ ДАЛЬНЕЙШИХ ОБНОВЛЕНИЙ]`

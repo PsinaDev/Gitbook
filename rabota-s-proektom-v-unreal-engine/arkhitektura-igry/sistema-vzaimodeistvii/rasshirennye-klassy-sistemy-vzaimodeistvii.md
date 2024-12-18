@@ -25,12 +25,12 @@ description: На этой странице будут перечислены о
 
 Это расширение позволяет менять полностью контекст взаимодействий для конкретного игрока или вообще для всех!
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>У игрока слева стоит контекст "Confused", в то время как у игрока справа стоит "Default". Изменения в методе взаимодействия происходят локально, но результат взаимодействий происходит у всех!</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>У игрока слева стоит контекст "Confused", в то время как у игрока справа стоит "Default". Изменения в методе взаимодействия происходят локально, но результат взаимодействий происходит у всех!</p></figcaption></figure>
 
 Во вкладке Interaction Settings есть параметр "Context Override". Он представляет из себя Map GameplayTag/DataTableRowHandle.  Таким образом это позволяет полностью поменять контекст всех взаимодействий.\
 
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
