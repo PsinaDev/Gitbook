@@ -54,6 +54,7 @@
   * [Gameplay Message Router: Делегаты 2.0](rabota-s-proektom-v-unreal-engine/instrukcii-po-razrabotke/gameplay-message-router-delegaty-2.0/README.md)
     * [Наглядные примеры реализации делегатов](rabota-s-proektom-v-unreal-engine/instrukcii-po-razrabotke/gameplay-message-router-delegaty-2.0/naglyadnye-primery-realizacii-delegatov.md)
     * [Наглядные примеры реализации Gameplay Message Router](rabota-s-proektom-v-unreal-engine/instrukcii-po-razrabotke/gameplay-message-router-delegaty-2.0/naglyadnye-primery-realizacii-gameplay-message-router.md)
+  * [Методичка по тестированию механик](rabota-s-proektom-v-unreal-engine/instrukcii-po-razrabotke/metodichka-po-testirovaniyu-mekhanik.md)
 * [Полезные ссылки](rabota-s-proektom-v-unreal-engine/poleznye-ssylki.md)
 * [Часто задаваемые вопросы (FAQ)](rabota-s-proektom-v-unreal-engine/chasto-zadavaemye-voprosy-faq.md)
 

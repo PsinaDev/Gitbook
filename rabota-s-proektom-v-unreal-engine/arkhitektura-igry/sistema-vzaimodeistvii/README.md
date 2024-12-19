@@ -37,14 +37,7 @@ description: >-
 * **bAddLayout** - Добавлять ли курсор по центру экрана; Boolean
 * **LayoutWidgetClass -** Класс LayoutWidget; UserWidgetClassReference
 * **Detection Radius** - Радиус обнаружения интерактивных объектов вокруг персонажа; UE Units
-* **Detection Channel -** Канал коллизии для обнаружения объектов. <mark style="color:red;">Обратите внимание, используется ECollisionChannel, а не ETraceTypeQuery, подробнее:</mark>
-
-{% content-ref url="../../instrukcii-po-razrabotke/obshaya-spravka-po-kolliziyam/raznica-mezhdu-ecollisionchannel-i-etracetypequery.md" %}
-[raznica-mezhdu-ecollisionchannel-i-etracetypequery.md](../../instrukcii-po-razrabotke/obshaya-spravka-po-kolliziyam/raznica-mezhdu-ecollisionchannel-i-etracetypequery.md)
-{% endcontent-ref %}
-
-
-
+* **Detection Channel -** Канал коллизии для обнаружения объектов.&#x20;
 * bIsActiveOnStart - определяет, активировать ли компонент при начале игры; Boolean
 
 Для Runtime управления параметрами, вынесены следующие функции:
