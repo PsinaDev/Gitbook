@@ -76,4 +76,4 @@
 
 ## Другие статьи
 
-* [Алгоритмы стима1](drugie-stati/algoritmy-stima1.md)
+* [Алгоритмы стима](drugie-stati/algoritmy-stima.md)
