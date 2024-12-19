@@ -73,3 +73,7 @@
   * [PNG](dokumentaciya-art-otdela/eksport-tekstur-iz-photoshop/png.md)
 * [Частые ошибки и методы борьбы с ними](dokumentaciya-art-otdela/chastye-oshibki-i-metody-borby-s-nimi.md)
 * [Подготовка рабочего места (своей 3d программы)](dokumentaciya-art-otdela/podgotovka-rabochego-mesta-svoei-3d-programmy.md)
+
+## Другие статьи
+
+* [Алгоритмы стима1](drugie-stati/algoritmy-stima1.md)
